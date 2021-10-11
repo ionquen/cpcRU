@@ -1,0 +1,1 @@
+{"=":"arthas","t":["arthas"],"c":"╰( ͡° ͜ʖ ͡° )つ──☆ TwitchLit ВЖУХ И ТЫ СЫН ДЕРЬМА roflanEbalo","id":694}

@@ -1,0 +1,1 @@
+{"=":"дота  пудж","t":["дота","пудж"],"c":"Тааааaк.. monkaHmm\r\nPhantom Lancer агила... monkaHmm\r\nPhantom Assassin кинжал талант... monkaHmm\r\nPUDGE - удален из игры YEP","id":295}

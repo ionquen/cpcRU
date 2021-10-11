@@ -1,0 +1,1 @@
+{"=":"модератор","t":["модератор"],"c":"▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬ \r\nimGlitch\r\nimGlitch\r\n Я НАСРАЛ МОДЕР УБЕРИ\r\nTwitchVotes\r\nimGlitch\r\nimGlitch\r\n▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬","id":726}
