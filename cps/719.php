@@ -1,1 +1,1 @@
-{"=":"дота  csgo","t":["BloodTrail","csgo","дота"],"c":"Начало катки - BloodTrail Конец катки - BloodTrailWeen","id":719}
+{"=":"дота  кс го","t":["BloodTrail","дота","кс го"],"c":"Начало катки - BloodTrail Конец катки - BloodTrailWeen","id":719}
