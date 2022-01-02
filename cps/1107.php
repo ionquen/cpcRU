@@ -1,1 +1,0 @@
-{"=":"чат  подсказка","t":["подсказка","чат"],"c":"RainbowPls Он не знает RainbowPls Мы не скажем RainbowPls Пусть гадает RainbowPls Мы попляшем RainbowPls Ведь мы чат RainbowPls Так веселимся RainbowPls Для подсказок RainbowPls Не годимся RainbowPls ","id":1107}

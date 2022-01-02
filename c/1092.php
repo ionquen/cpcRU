@@ -1,0 +1,1 @@
+{"t":["team spirit","дота"],"c":"ТИМЫ TwitchRPG НЕТ TwitchRPG СИЛЬНЕЕ TwitchRPG В МИРЕ TwitchRPG ЭТОТ TwitchRPG ИНТ TwitchRPG ВОЗЬМУТ TwitchRPG TEAM SPIRIT ТИМЫ TwitchRPG НЕТ TwitchRPG СИЛЬНЕЕ TwitchRPG В МИРЕ TwitchRPG ЭТОТ TwitchRPG ИНТ TwitchRPG ВОЗЬМУТ TwitchRPG TEAM SPIRIT","id":1092}

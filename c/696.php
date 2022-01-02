@@ -1,0 +1,1 @@
+{"t":["олд"],"c":"CoolCat EZ B) CoolCat EZ B) Узнай, какой ты олд Kappa ⎠","id":696}

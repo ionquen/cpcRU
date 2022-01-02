@@ -1,1 +1,0 @@
-{"=":"бан","t":["бан"],"c":"Хмурятся тучи BibleThump Вздыбилась земля BibleThump Сегодня идём BibleThump\r\nХоронить короля BibleThump","id":715}

@@ -1,0 +1,1 @@
+{"t":["украинец"],"c":"DendiFace Я ВЕСЕЛЫЙ УКРАИНЕЦ DendiFace У МЕНЯ В ОЧКЕ МИЗИНЕЦ DendiFace Я ЛЮБЛЮ ИМ ШЕВЕЛИТЬ DendiFace ЧТОБ СЕБЯ РАЗВЕСЕЛИТЬ DendiFace ","id":376}

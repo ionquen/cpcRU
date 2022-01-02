@@ -1,1 +1,0 @@
-{"=":"собака","t":["собака"],"c":"МЫ БРОДЯЧИЕ ПСЫ FrankerZ , МЫ ПОДНЯЛИ ВВЕРХ НОСЫ FrankerZ И ВМЕСТЕ СКАЖЕМ:ВУФ ВУФ FrankerZ FrankerZ ВУФ ВУФ FrankerZ FrankerZ","id":751}

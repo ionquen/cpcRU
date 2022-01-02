@@ -1,1 +1,0 @@
-{"=":"саб ","t":["саб"],"c":"Шейхи сосать лорд ансабов все ещё жив ￼￼￼￼￼￼￼, ансабы ловим ядра и переплавляем их в ложки чтобы закидывать сабов гавной SMOrc PurpleStar SMOrc PurpleStar SMOrc PurpleStar SMOrc PurpleStar SMOrc PurpleStar","id":946}
