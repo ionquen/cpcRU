@@ -1,1 +1,1 @@
-{"t":["BloodTrail","дота","кс го"],"c":"Начало катки - BloodTrail Конец катки - BloodTrailWeen","id":719}
+{"t":["BloodTrail","dota","кс го"],"c":"Начало катки - BloodTrail Конец катки - BloodTrailWeen","id":719}

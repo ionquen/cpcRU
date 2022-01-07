@@ -1,1 +1,1 @@
-{"t":["гомо","заквиель"],"c":"KappaPride пока KappaPride стример KappaPride срет KappaPride в KappaPride сартире KappaPride гей KappaPride летает KappaPride по KappaPride кватрире KappaPride","id":590}
+{"t":["kappaPride","заквиель"],"c":"KappaPride пока KappaPride стример KappaPride срет KappaPride в KappaPride сартире KappaPride гей KappaPride летает KappaPride по KappaPride кватрире KappaPride","id":590}
