@@ -1,1 +1,1 @@
-{"t":["BloodTrail","жизнь","магазин"],"c":"сидя дома грущу чего боюсь BloodTrail захожу в магаз и покупаю себе снюс BloodTrail я обритаю силы, получаю кайф BloodTrail снюс моя жизнь BloodTrail снюс is my life BloodTrail","id":667}
+{"t":["BloodTrail","жизнь","кайф","магазин"],"c":"сидя дома грущу чего боюсь BloodTrail захожу в магаз и покупаю себе снюс BloodTrail я обритаю силы, получаю кайф BloodTrail снюс моя жизнь BloodTrail снюс is my life BloodTrail","id":667}
