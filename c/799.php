@@ -1,1 +1,1 @@
-{"t":["чат"],"c":"&&GivePLZ&&DrinkPurple&&TakeNRG&&Передаём бутылку, работяги","id":799}
+{"t":["чат"],"c":"&&GivePLZ&& DrinkPurple &&TakeNRG&& Передаём бутылку, работяги","id":799}

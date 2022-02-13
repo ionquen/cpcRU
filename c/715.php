@@ -1,1 +1,1 @@
-{"t":["бан"],"c":"Хмурятся тучи&&BibleThump&&Вздыбилась земля&&BibleThump&&Сегодня идём&&BibleThump&&\nХоронить короля&&BibleThump&&","id":715}
+{"t":["бан"],"c":"Хмурятся тучи &&BibleThump&& Вздыбилась земля &&BibleThump&& Сегодня идём &&BibleThump&& \nХоронить короля &&BibleThump&&","id":715}

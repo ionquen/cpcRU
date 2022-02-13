@@ -1,1 +1,1 @@
-{"t":["модератор"],"c":"▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬ \r&&imGlitch&&&&imGlitch&&\n Я НАСРАЛ МОДЕР УБЕРИ\r\nTwitchVotes\r&&imGlitch&&&&imGlitch&&\n▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬","id":726}
+{"t":["модератор"],"c":"▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬ \r &&imGlitch&&  &&imGlitch&& \n Я НАСРАЛ МОДЕР УБЕРИ\r\nTwitchVotes\r &&imGlitch&&  &&imGlitch&& \n▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬","id":726}

@@ -1,1 +1,1 @@
-{"t":["бунт","чат"],"c":"АНСАБЫ, ДЕРЖАТЬ СТРОЙ&&SMOrc&&PurpleStar&&SMOrc&&PurpleStar&&SMOrc&&PurpleStar&&SMOrc&&PurpleStar&&SMOrc&&","id":945}
+{"t":["бунт","чат"],"c":"АНСАБЫ, ДЕРЖАТЬ СТРОЙ &&SMOrc&& PurpleStar &&SMOrc&& PurpleStar &&SMOrc&& PurpleStar &&SMOrc&& PurpleStar &&SMOrc&&","id":945}
