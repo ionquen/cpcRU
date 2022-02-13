@@ -1,1 +1,1 @@
-{"t":["dendi"],"c":"DendiFace Я Ишутин Даунил DendiFace Сикретам игру залил DendiFace Устроил на миду позор DendiFace Виноват во всем Япзор DendiFace","id":713}
+{"t":["dendi"],"c":"&&DendiFace&&Я Ишутин Даунил&&DendiFace&&Сикретам игру залил&&DendiFace&&Устроил на миду позор&&DendiFace&&Виноват во всем Япзор&&DendiFace&&","id":713}

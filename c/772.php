@@ -1,1 +1,1 @@
-{"t":["паста"],"c":"SeemsGood Добавь SeemsGood Смайликов SeemsGood Между SeemsGood Словами SeemsGood И SeemsGood Дауны SeemsGood Скопируют SeemsGood","id":772}
+{"t":["паста"],"c":"&&SeemsGood&&Добавь&&SeemsGood&&Смайликов&&SeemsGood&&Между&&SeemsGood&&Словами&&SeemsGood&&И&&SeemsGood&&Дауны&&SeemsGood&&Скопируют&&SeemsGood&&","id":772}

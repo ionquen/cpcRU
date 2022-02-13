@@ -1,1 +1,1 @@
-{"t":["BloodTrail","бан","паста"],"c":"BloodTrail\r\n9 из 10 дантистов\r\nBloodTrail\r\nрекомендуют эту пасту\r\nBloodTrail\r\nоставшийся уебан\r\nBloodTrail\r\nбанит за неё\r\nBloodTrail\r\nЗа эту тоже","id":1055}
+{"t":["BloodTrail","бан","паста"],"c":"&&BloodTrail&&\n9 из 10 дантистов\r&&BloodTrail&&\nрекомендуют эту пасту\r&&BloodTrail&&\nоставшийся уебан\r&&BloodTrail&&\nбанит за неё\r&&BloodTrail&&\nЗа эту тоже","id":1055}

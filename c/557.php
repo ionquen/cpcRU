@@ -1,1 +1,1 @@
-{"t":["BloodTrail","dota","shadow fiend"],"c":"Привет, ищу друга чтобы учиться играть в доту в лобби на сфах BloodTrail час назад скачал BloodTrail купил аккаунт BloodTrail связь скайп","id":557}
+{"t":["BloodTrail","dota","shadow fiend"],"c":"Привет, ищу друга чтобы учиться играть в доту в лобби на сфах&&BloodTrail&&час назад скачал&&BloodTrail&&купил аккаунт&&BloodTrail&&связь скайп","id":557}

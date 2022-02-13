@@ -17,9 +17,7 @@ ym(84896236, "init", {
     webvisor:true
 });
 
-window.addEventListener('appinstalled', () => {
-    window.gtag('event', 'installed');
-});
+window.addEventListener('appinstalled', () => sendMetrik('installed'));
   
 function sendMetrik(event) {
     window.gtag('event', event)

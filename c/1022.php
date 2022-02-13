@@ -1,1 +1,1 @@
-{"t":["BloodTrail","мать","секс"],"c":"Ку BloodTrail извини BloodTrail но я BloodTrail твою маму BloodTrail вчера BloodTrail","id":1022}
+{"t":["BloodTrail","мать","секс"],"c":"Ку&&BloodTrail&&извини&&BloodTrail&&но я&&BloodTrail&&твою маму&&BloodTrail&&вчера&&BloodTrail&&","id":1022}
