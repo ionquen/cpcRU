@@ -1,1 +1,1 @@
-{"t":["uselessmouth","говно","чат"],"c":"Basedge Tssk НЕ СРAТЬ","id":847}
+{"t":["uselessmouth","говно","смайлы","чат"],"c":"&&Basedge&& &&Tssk&& НЕ СРAТЬ","id":847}

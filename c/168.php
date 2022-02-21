@@ -1,1 +1,1 @@
-{"t":["бот"],"c":"RAPIDCAT кручу ботов RAPIDCAT кручу ботов RAPIDCAT кручу ботов RAPIDCAT","id":168}
+{"t":["бот","смайлы"],"c":"&&RAPIDCAT&& кручу ботов &&RAPIDCAT&& кручу ботов &&RAPIDCAT&& кручу ботов &&RAPIDCAT&&","id":168}

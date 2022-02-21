@@ -1,1 +1,1 @@
-{"t":["мужик","перекличка"],"c":"billyReady ВНЕЗАПНАЯ billyReady ПЕРЕКЛИЧКА billyReady МУЖИКОВ billyReady","id":1366}
+{"t":["мужик","перекличка","смайлы"],"c":"&&billyReady&& ВНЕЗАПНАЯ &&billyReady&& ПЕРЕКЛИЧКА &&billyReady&& МУЖИКОВ &&billyReady&&","id":1366}

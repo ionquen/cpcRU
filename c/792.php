@@ -1,1 +1,1 @@
-{"t":["версута"],"c":"Продам сет на Версуту, 4 стиля &&FrankerZ&& &&RalpherZ&& &&CorgiDerp&& &&OhMyDog&&","id":792}
+{"t":["версута","смайлы"],"c":"Продам сет на Версуту, 4 стиля &&FrankerZ&& &&RalpherZ&& &&CorgiDerp&& &&OhMyDog&&","id":792}
