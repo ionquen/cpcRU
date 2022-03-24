@@ -1,1 +1,1 @@
-{"t":["BibleThump","KappaPride","бан","смайлы"],"c":"Хмурятся тучи &&BibleThump&& Вздыбилась земля &&BibleThump&& Сегодня идём &&BibleThump&& \nХоронить короля &&BibleThump&&","id":715}
+{"t":["BibleThump","бан","смайлы"],"c":"Хмурятся тучи &&BibleThump&& Вздыбилась земля &&BibleThump&& Сегодня идём &&BibleThump&& \nХоронить короля &&BibleThump&&","id":715}
