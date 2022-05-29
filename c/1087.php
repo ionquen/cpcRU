@@ -1,1 +1,1 @@
-{"t":["virtus pro"],"c":"RussianWave ПИВО ЛЬЕТСЯ RussianWave ЧЕРЕЗ КРАЙ RussianWave ВИРТУС ПРО RussianWave ВОЗЬМУТ ТИ АЙ","id":1087}
+{"t":["virtus pro","смайлы"],"c":"Russia &&Wave&& ПИВО ЛЬЕТСЯ Russia &&Wave&& ЧЕРЕЗ КРАЙ Russia &&Wave&& ВИРТУС ПРО Russia &&Wave&& ВОЗЬМУТ ТИ АЙ","id":1087}

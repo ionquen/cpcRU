@@ -1,1 +1,1 @@
-{"t":["daxak","icebergdoto","смайлы"],"c":"дахак очумел... ты в муте... я в бане &&TPFufun&& l4hmadJuHAHA l4hmadJuHAHA","id":1290}
+{"t":["daxak","icebergdoto","смайлы"],"c":"дахак очумел... ты в муте... я в бане &&TPFufun&& l4hmadJ && &&AH&& && l4hmadJ && &&AH&& &&","id":1290}
