@@ -1,1 +1,1 @@
-{"t":["паста","смайлы"],"c":"&&Kappa&& ride ctrl+c нажали &&Kappa&& ride ctrl+v нажали &&Kappa&& ride в чат твича вставили &&Kappa&& ride и ждать кд сообщения &&Kappa&& ride очень слабенькие сегодня модераторы &&Kappa&& ride ну очень слабенькие &&Kappa&& ride","id":761}
+{"t":["KappaPride","паста","смайлы"],"c":"&&KappaPride&& ctrl+c нажали &&KappaPride&& ctrl+v нажали &&KappaPride&& в чат твича вставили &&KappaPride&& и ждать кд сообщения &&KappaPride&& очень слабенькие сегодня модераторы &&KappaPride&& ну очень слабенькие &&KappaPride&&","id":761}

@@ -1,1 +1,1 @@
-{"t":["брат","смайлы","чат"],"c":"МОЯ БРАТВА В ЧАТЕ! ВСЕМ ПОПУСТИТСЯ Funn &&Cat&& astingTH &&WAT&& R catJammer &&Flushed&& at Sill &&Cat&& &&Cat &&Homi&& && &&catBlush&& catVanish &&angryCAT&& &&catCry&& &&catS&& d catE &&catLurk&& &&Cat&& lam cat &&X&& ITE &&Cat&& ttack &&Win&&  GoingInsane","id":1141}
+{"t":["брат","смайлы","чат"],"c":"МОЯ БРАТВА В ЧАТЕ! ВСЕМ ПОПУСТИТСЯ FunnyCatTastingTHEWATER catJammer FlushedCat SillyCat &&CatAHomie&& &&catBlush&& catVanish &&angryCAT&& &&catCry&& catSad catE &&catLurk&& CatSlam catEXCITE CatAttack &&Wink&& GoingInsane","id":1141}

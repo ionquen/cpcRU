@@ -1,1 +1,1 @@
-{"t":["смайлы","собака"],"c":"ВНЕЗАПНАЯ DooooooooogLookin &&Sussy&& n &&Cute&& ПЕРЕКЛИЧКА DooooooooogLookin &&Sussy&& n &&Cute&& ВСРАТЫХ DooooooooogLookin &&Sussy&& n &&Cute&& СОБАК DooooooooogLookin &&Sussy&& n &&Cute&&","id":1146}
+{"t":["собака"],"c":"ВНЕЗАПНАЯ DooooooooogLookingSussyAndCute ПЕРЕКЛИЧКА DooooooooogLookingSussyAndCute ВСРАТЫХ DooooooooogLookingSussyAndCute СОБАК DooooooooogLookingSussyAndCute","id":1146}

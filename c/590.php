@@ -1,1 +1,1 @@
-{"t":["zakvielchannel","смайлы"],"c":"&&Kappa&& ride пока &&Kappa&& ride стример &&Kappa&& ride срет &&Kappa&& ride в &&Kappa&& ride сартире &&Kappa&& ride гей &&Kappa&& ride летает &&Kappa&& ride по &&Kappa&& ride кватрире &&Kappa&& ride","id":590}
+{"t":["KappaPride","zakvielchannel","смайлы"],"c":"&&KappaPride&& пока &&KappaPride&& стример &&KappaPride&& срет &&KappaPride&& в &&KappaPride&& сартире &&KappaPride&& гей &&KappaPride&& летает &&KappaPride&& по &&KappaPride&& кватрире &&KappaPride&&","id":590}
